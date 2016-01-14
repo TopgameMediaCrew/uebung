@@ -10,6 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-Version 0.1
+Version 0.1.1
     </body>
 </html>
